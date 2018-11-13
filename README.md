@@ -3,9 +3,7 @@
   <a href="https://imgflip.com/i/2mfgn2"><img src="https://i.imgflip.com/2mfgn2.jpg" title="made at imgflip.com"/></a>
   <br>
   <br>
-  CRAPTITLES
-  <br>
-  Fix crappy subtitles easily
+  CRAPTITLES - Fix crappy subtitles easily
   <br>
   <br>
 </h1>
