@@ -10,3 +10,12 @@
 
 Little script for replacing characters in text files.
 Created to fix subtitle files in directory. By fix I mean find all the special characters that my TV won't display properly and replace them with provided substitutions.
+
+Character pairs (bad - good characters) are to be set in the config.txt file like this:
+
+<p align="center">
+ąśź // Bad characters
+aćz // Good characters
+</p>
+
+First character on the first line will be replaced with first character on the second line ('ą' => 'a'), second character on first line with second character on second line and so on.
