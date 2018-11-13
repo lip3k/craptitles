@@ -15,6 +15,7 @@ Character pairs (bad - good characters) are to be set in the config.txt file lik
 
 <p align="center">
 ąśź // Bad characters
+  <br>
 aćz // Good characters
 </p>
 
