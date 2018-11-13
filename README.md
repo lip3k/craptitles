@@ -16,7 +16,7 @@ Character pairs (bad - good characters) are to be set in the config.txt file lik
 ```
 ąśź // Bad characters
 
-aćz // Good characters
+asz // Good characters
 ```
 
 First character on the first line will be replaced with first character on the second line ('ą' => 'a'), second character on first line with second character on second line and so on.
