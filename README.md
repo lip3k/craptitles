@@ -4,7 +4,8 @@
   <br>
   <br>
   CRAPTITLES
-  <span style="font-size: 10px">Fix crappy subtitles easily</span>
+  <br>
+  Fix crappy subtitles easily
   <br>
   <br>
 </h1>
