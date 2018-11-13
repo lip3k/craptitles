@@ -9,4 +9,4 @@
 </h1>
 
 Little script for replacing characters in text files.
-It scans the directory to get list of all the files and then, using pairs of characters from config file it will perform replace operation and overwrite the file when finished.
+Created to fix subtitle files in directory. By fix I mean find all the special characters that my TV won't display properly and replace them with provided substitutions.
