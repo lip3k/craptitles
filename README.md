@@ -4,12 +4,13 @@
   <br>
   <br>
   CRAPTITLES
+  <h4 align="center">
+    Fix crappy subtitles easily
+  </h4>
   <br>
   <br>
 </h1>
-<h4 align="center">
-  Fix crappy subtitles easily
-</h4>
+
 
 Little script for replacing characters in text files.
 Created to fix subtitle files in directory. By fix I mean find all the special characters that my TV won't display properly and replace them with provided substitutions.
