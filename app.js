@@ -87,14 +87,12 @@ function correctFile(filename) {
   });
 }
 
-function Log(resource, status) {
 
+function Log(resource, status) {
   for (let i = resource.length; i < 10; i++) {
     resource += ' ';
   }
-
   console.log(resource.toUpperCase(), status);
-
 }
 
 
